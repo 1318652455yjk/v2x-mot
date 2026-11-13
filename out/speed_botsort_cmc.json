@@ -1,0 +1,16 @@
+{
+ "source": "data/raw/bdd100k/frames/b1e9ee0e-67e26f2e",
+ "model": "yolo11s.pt",
+ "imgsz": 1280,
+ "frames": 203,
+ "fps_e2e": 31.94,
+ "ms_read_p50": 3.43,
+ "ms_preprocess_p50": 1.27,
+ "ms_inference_p50": 13.17,
+ "ms_postprocess_p50": 2.0,
+ "ms_total_p50": 30.48,
+ "ms_total_p95": 38.03,
+ "objs_mean": 27.9,
+ "objs_max": 32,
+ "vram_peak_gb": 0.1
+}

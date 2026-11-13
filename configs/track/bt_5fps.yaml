@@ -1,0 +1,9 @@
+# 按 5 fps 重调：match_thresh 是「1-IoU」代价门限，越大越宽松
+# 5fps 帧间位移大 → 放宽到 IoU>=0.08；buffer 12 帧 = 2.4 s
+tracker_type: bytetrack
+track_high_thresh: 0.15
+track_low_thresh: 0.05
+new_track_thresh: 0.30
+track_buffer: 12
+match_thresh: 0.92
+fuse_score: True

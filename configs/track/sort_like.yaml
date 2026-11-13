@@ -1,0 +1,8 @@
+# 近似 SORT：关闭低分框二阶段（low = high），仅 IoU 关联
+tracker_type: bytetrack
+track_high_thresh: 0.15
+track_low_thresh: 0.15
+new_track_thresh: 0.30
+track_buffer: 12
+match_thresh: 0.92
+fuse_score: True

@@ -1,0 +1,801 @@
+{
+ "station_id": "VEH-EGO-001",
+ "frame": 0,
+ "ts": 0.0,
+ "ttl": 0.5,
+ "n_obj": 22,
+ "objects": [
+  {
+   "track_id": 1,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    0.2,
+    363.8,
+    203.8,
+    483.2
+   ],
+   "center_px": [
+    102.0,
+    423.5
+   ],
+   "center_norm": [
+    0.0797,
+    0.5882
+   ],
+   "size_px": [
+    203.6,
+    119.4
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.9277,
+   "state": "tracked",
+   "pos_m_est": [
+    -6.11,
+    12.59
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 2,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    134.9,
+    374.2,
+    385.0,
+    459.2
+   ],
+   "center_px": [
+    259.9,
+    416.8
+   ],
+   "center_norm": [
+    0.203,
+    0.5789
+   ],
+   "size_px": [
+    250.1,
+    85.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.9048,
+   "state": "tracked",
+   "pos_m_est": [
+    -5.36,
+    15.64
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 3,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    1089.0,
+    342.0,
+    1279.0,
+    586.5
+   ],
+   "center_px": [
+    1184.0,
+    464.2
+   ],
+   "center_norm": [
+    0.925,
+    0.6447
+   ],
+   "size_px": [
+    190.0,
+    244.5
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.8818,
+   "state": "tracked",
+   "pos_m_est": [
+    3.36,
+    6.85
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 4,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    297.5,
+    376.0,
+    470.5,
+    440.0
+   ],
+   "center_px": [
+    384.0,
+    408.0
+   ],
+   "center_norm": [
+    0.3,
+    0.5667
+   ],
+   "size_px": [
+    173.0,
+    64.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.8774,
+   "state": "tracked",
+   "pos_m_est": [
+    -4.48,
+    19.39
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 5,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    973.0,
+    369.0,
+    1177.0,
+    481.0
+   ],
+   "center_px": [
+    1075.0,
+    425.0
+   ],
+   "center_norm": [
+    0.8398,
+    0.5903
+   ],
+   "size_px": [
+    204.0,
+    112.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.8682,
+   "state": "tracked",
+   "pos_m_est": [
+    5.03,
+    12.82
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 6,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    446.5,
+    381.5,
+    570.5,
+    428.0
+   ],
+   "center_px": [
+    508.5,
+    404.8
+   ],
+   "center_norm": [
+    0.3973,
+    0.5622
+   ],
+   "size_px": [
+    124.0,
+    46.5
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.8232,
+   "state": "tracked",
+   "pos_m_est": [
+    -2.71,
+    22.81
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 7,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    912.0,
+    363.8,
+    1039.0,
+    429.8
+   ],
+   "center_px": [
+    975.5,
+    396.8
+   ],
+   "center_norm": [
+    0.7621,
+    0.5511
+   ],
+   "size_px": [
+    127.0,
+    66.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.8232,
+   "state": "tracked",
+   "pos_m_est": [
+    6.73,
+    22.22
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 8,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    622.0,
+    363.8,
+    688.0,
+    394.2
+   ],
+   "center_px": [
+    655.0,
+    379.0
+   ],
+   "center_norm": [
+    0.5117,
+    0.5264
+   ],
+   "size_px": [
+    66.0,
+    30.4
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.7476,
+   "state": "tracked",
+   "pos_m_est": [
+    0.61,
+    45.36
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 9,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    811.5,
+    369.0,
+    827.5,
+    383.0
+   ],
+   "center_px": [
+    819.5,
+    376.0
+   ],
+   "center_norm": [
+    0.6402,
+    0.5222
+   ],
+   "size_px": [
+    16.0,
+    14.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.7339,
+   "state": "tracked",
+   "pos_m_est": [
+    10.93,
+    67.44
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 10,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    392.0,
+    379.0,
+    504.5,
+    436.0
+   ],
+   "center_px": [
+    448.2,
+    407.5
+   ],
+   "center_norm": [
+    0.3502,
+    0.566
+   ],
+   "size_px": [
+    112.5,
+    57.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.6738,
+   "state": "tracked",
+   "pos_m_est": [
+    -3.53,
+    20.41
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 11,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    558.0,
+    367.0,
+    614.0,
+    404.0
+   ],
+   "center_px": [
+    586.0,
+    385.5
+   ],
+   "center_norm": [
+    0.4578,
+    0.5354
+   ],
+   "size_px": [
+    56.0,
+    37.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.6514,
+   "state": "tracked",
+   "pos_m_est": [
+    -1.72,
+    35.25
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 12,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    0.0,
+    435.0,
+    10.9,
+    488.0
+   ],
+   "center_px": [
+    5.5,
+    461.5
+   ],
+   "center_norm": [
+    0.0043,
+    0.641
+   ],
+   "size_px": [
+    10.9,
+    53.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.5737,
+   "state": "tracked",
+   "pos_m_est": [
+    -6.94,
+    12.12
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 13,
+   "cls": "truck",
+   "cls_code": 4,
+   "bbox_px": [
+    391.0,
+    340.2,
+    595.0,
+    418.2
+   ],
+   "center_px": [
+    493.0,
+    379.2
+   ],
+   "center_norm": [
+    0.3852,
+    0.5267
+   ],
+   "size_px": [
+    204.0,
+    78.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.5718,
+   "state": "tracked",
+   "pos_m_est": [
+    -3.54,
+    26.65
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 14,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    946.0,
+    351.0,
+    1126.0,
+    446.0
+   ],
+   "center_px": [
+    1036.0,
+    398.5
+   ],
+   "center_norm": [
+    0.8094,
+    0.5535
+   ],
+   "size_px": [
+    180.0,
+    95.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.564,
+   "state": "tracked",
+   "pos_m_est": [
+    6.45,
+    18.04
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 15,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    576.5,
+    361.0,
+    645.5,
+    401.0
+   ],
+   "center_px": [
+    611.0,
+    381.0
+   ],
+   "center_norm": [
+    0.4773,
+    0.5292
+   ],
+   "size_px": [
+    69.0,
+    40.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.5488,
+   "state": "tracked",
+   "pos_m_est": [
+    -0.99,
+    37.83
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 16,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    693.5,
+    367.5,
+    731.5,
+    389.5
+   ],
+   "center_px": [
+    712.5,
+    378.5
+   ],
+   "center_norm": [
+    0.5566,
+    0.5257
+   ],
+   "size_px": [
+    38.0,
+    22.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.5332,
+   "state": "tracked",
+   "pos_m_est": [
+    3.44,
+    52.58
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 17,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    839.5,
+    363.5,
+    888.5,
+    394.5
+   ],
+   "center_px": [
+    864.0,
+    379.0
+   ],
+   "center_norm": [
+    0.675,
+    0.5264
+   ],
+   "size_px": [
+    49.0,
+    31.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.4844,
+   "state": "tracked",
+   "pos_m_est": [
+    9.09,
+    44.96
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 18,
+   "cls": "person",
+   "cls_code": 0,
+   "bbox_px": [
+    125.6,
+    366.0,
+    155.9,
+    392.5
+   ],
+   "center_px": [
+    140.8,
+    379.2
+   ],
+   "center_norm": [
+    0.11,
+    0.5267
+   ],
+   "size_px": [
+    30.3,
+    26.5
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.4534,
+   "state": "tracked",
+   "pos_m_est": [
+    -21.5,
+    47.73
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 19,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    391.5,
+    339.2,
+    595.0,
+    416.2
+   ],
+   "center_px": [
+    493.2,
+    377.8
+   ],
+   "center_norm": [
+    0.3853,
+    0.5247
+   ],
+   "size_px": [
+    203.5,
+    77.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.4475,
+   "state": "tracked",
+   "pos_m_est": [
+    -3.66,
+    27.6
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 20,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    660.0,
+    362.0,
+    712.0,
+    391.0
+   ],
+   "center_px": [
+    686.0,
+    376.5
+   ],
+   "center_norm": [
+    0.5359,
+    0.5229
+   ],
+   "size_px": [
+    52.0,
+    29.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.3774,
+   "state": "tracked",
+   "pos_m_est": [
+    2.08,
+    50.04
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 21,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    244.6,
+    365.0,
+    321.5,
+    389.0
+   ],
+   "center_px": [
+    283.1,
+    377.0
+   ],
+   "center_norm": [
+    0.2212,
+    0.5236
+   ],
+   "size_px": [
+    76.9,
+    24.0
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.3594,
+   "state": "tracked",
+   "pos_m_est": [
+    -17.23,
+    53.49
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  },
+  {
+   "track_id": 22,
+   "cls": "car",
+   "cls_code": 3,
+   "bbox_px": [
+    212.5,
+    366.5,
+    250.2,
+    375.0
+   ],
+   "center_px": [
+    231.4,
+    370.8
+   ],
+   "center_norm": [
+    0.1808,
+    0.515
+   ],
+   "size_px": [
+    37.7,
+    8.5
+   ],
+   "vel_px_s": [
+    0.0,
+    0.0
+   ],
+   "heading_deg": null,
+   "conf": 0.3381,
+   "state": "tracked",
+   "pos_m_est": [
+    -38.14,
+    103.41
+   ],
+   "speed_mps_est": 0.0,
+   "scale_source": "assumed_focal+ground_plane"
+  }
+ ]
+}

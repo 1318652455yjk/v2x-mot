@@ -1,0 +1,25 @@
+{
+  "source": "data/raw/bdd100k/frames/b1e9ee0e-67e26f2e",
+  "tracker": "bytetrack.yaml",
+  "model": "yolo11s.pt",
+  "frames": 203,
+  "fps_src": 5.0,
+  "wall_time_s": 8.59,
+  "fps_e2e": 23.64,
+  "latency_ms_p50": 20.66,
+  "latency_ms_p95": 29.82,
+  "latency_ms_mean": 31.88,
+  "num_track_ids": 60,
+  "det_per_frame_mean": 27.12,
+  "det_per_frame_max": 32,
+  "track_len_median": 63.5,
+  "tracks_ge_30_frames": 35,
+  "tracks_ge_60_frames": 32,
+  "tracks_ge_120_frames": 24,
+  "ids_per_class": {
+    "bus": 1,
+    "car": 49,
+    "person": 8,
+    "truck": 2
+  }
+}

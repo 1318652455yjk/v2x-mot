@@ -1,0 +1,33 @@
+{
+  "source": "data/raw/bdd100k/frames/b23c9e00-b425de1b",
+  "tracker": "configs/track/bt_5fps.yaml",
+  "model": "runs/detect/runs/bdd_ft2/weights/best.pt",
+  "frames": 202,
+  "fps_src": 5.0,
+  "wall_time_s": 7.14,
+  "fps_e2e": 28.28,
+  "latency_ms_p50": 19.14,
+  "latency_ms_p95": 28.55,
+  "latency_ms_mean": 31.94,
+  "num_track_ids": 64,
+  "det_per_frame_mean": 12.59,
+  "det_per_frame_max": 19,
+  "track_len_median": 23.5,
+  "tracks_ge_30_frames": 29,
+  "tracks_ge_60_frames": 15,
+  "tracks_ge_120_frames": 3,
+  "ids_per_class": {
+    "bicycle": 1,
+    "car": 63
+  },
+  "model_classes": [
+    "pedestrian",
+    "rider",
+    "car",
+    "truck",
+    "bus",
+    "train",
+    "motorcycle",
+    "bicycle"
+  ]
+}

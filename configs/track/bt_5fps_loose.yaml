@@ -1,0 +1,8 @@
+# 更宽松：IoU>=0.03，buffer 1.2s，抑制长时误接
+tracker_type: bytetrack
+track_high_thresh: 0.12
+track_low_thresh: 0.03
+new_track_thresh: 0.35
+track_buffer: 6
+match_thresh: 0.97
+fuse_score: True
