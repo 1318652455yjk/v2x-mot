@@ -16,3 +16,6 @@ out/fig/*.png
 __pycache__/
 *.pyc
 *.part*
+
+# 复现校验临时产物
+repro/out/

@@ -1,0 +1,21 @@
+# 环境快照 2026-11-13T18:56:53+08:00
+## OS
+Ubuntu 26.04 LTS
+6.18.33.2-microsoft-standard-WSL2
+
+## Python
+Python 3.10.20
+
+## GPU / CUDA
+name, memory.total [MiB], driver_version
+NVIDIA GeForce RTX 3050 Laptop GPU, 4096 MiB, 610.47
+
+## torch
+torch 2.6.0+cu124 cuda 12.4 cudnn 90100
+ultralytics 8.4.211
+opencv 4.10.0
+
+## CPU/RAM
+16
+               total        used        free      shared  buff/cache   available
+Mem:               7           1           3           0           2           6

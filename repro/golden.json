@@ -1,0 +1,22 @@
+{
+ "seq_vehicle": {
+  "IDF1": 0.5846,
+  "MOTA": 0.4818,
+  "IDSW": 96,
+  "id_switch_rate": 0.0307,
+  "ID_keep_rate": 0.9693,
+  "recall": 0.5863,
+  "precision": 0.8715,
+  "Frag": 302
+ },
+ "seq_pedestrian": {
+  "IDF1": 0.4908,
+  "MOTA": 0.4762,
+  "IDSW": 272,
+  "id_switch_rate": 0.076,
+  "ID_keep_rate": 0.924,
+  "recall": 0.5673,
+  "precision": 0.922,
+  "Frag": 633
+ }
+}

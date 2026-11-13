@@ -1,0 +1,4 @@
+345abb981fc55ce7d6368f2e6753b8b6747caa4b49a8abd7851a87aeb2fa1acc  data/raw/bdd100k/zips/images20-track-train-1.zip
+4d678810a14095ab4064013d81e3bc2bda45f730bfc09c3e66d3a5ef1c076778  data/raw/bdd100k/zips/images20-track-val-1.zip
+f64e935e43d75a8a58fab9080e8c09de3e355f93b4fdd7c75a1de3d28144c44a  runs/detect/runs/bdd_ft/weights/best.pt
+d840bc8f2bcb23a3fb12ac583a3a3454e1824c9c525306c81a20a12f9d7d574b  runs/detect/runs/bdd_ft2/weights/best.pt
